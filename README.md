@@ -1,4 +1,4 @@
-# 🦸 Classificador de Nível de Herói
+#  Classificador de Nível de Herói
 
 Este projeto foi desenvolvido como parte de um **desafio prático da DIO (Digital Innovation One)**, com foco em treinar os fundamentos da lógica de programação.
 
@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte de um **desafio prático da DIO (Digita
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O sistema recebe o **nome** e a **experiência (XP)** de um herói e, com base nesse valor, classifica seu nível.
 
@@ -16,7 +16,7 @@ Ao final da execução, o programa exibe a seguinte mensagem no console:
 
 ---
 
-## 🧩 Regras de Classificação
+##  Regras de Classificação
 
 | XP do Herói | Nível |
 |------------|-------|
@@ -31,7 +31,7 @@ Ao final da execução, o programa exibe a seguinte mensagem no console:
 
 ---
 
-## 🧠 Conceitos Praticados
+## Conceitos Praticados
 
 Neste projeto foram utilizados conceitos fundamentais da programação:
 
@@ -43,13 +43,13 @@ Neste projeto foram utilizados conceitos fundamentais da programação:
 
 ---
 
-## 🛠️ Tecnologia Utilizada
+##  Tecnologia Utilizada
 
 - **JavaScript**
 
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone ou baixe este repositório  
 2. Abra o arquivo `index.js`
